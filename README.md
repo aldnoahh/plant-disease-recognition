@@ -31,7 +31,7 @@ Test:  8162 images
 |3. inception v3   |     315       |      Yes       |                                   |
 |4. resnet 152 v2	 |	 568       |      Yes	    |	 1167 seconds  OR  19 min 27 sec  |
 |5. efficientnetb7 |     817       |      Yes       |    	                            |
-|---------------------------------------------------------------------------------------|
+
 
 Target Epochs for each DNN: 100 Epoch
 
