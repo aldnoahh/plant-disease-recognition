@@ -26,11 +26,11 @@ Test:  8162 images
 
 |      DNN	       | No. of layers | Code Available |      Average Time per epoch       |
 |------------------|---------------|----------------|-----------------------------------|
-|1. vgg19		 |	 26	     |	Yes	    |  766 seconds OR   12 min 46 sec   |
-|2. xception	 |     136	     |      Yes       |                                   |
-|3. inception v3   |     315       |      Yes       |                                   |
-|4. resnet 152 v2	 |	 568       |      Yes	    |	 1167 seconds  OR  19 min 27 sec  |
-|5. efficientnetb7 |     817       |      Yes       |    	                            |
+|1. VGG19		 |	 26	     |	Yes	    |  766 seconds OR   12 min 46 sec   |
+|2. Xception	 |     136	     |      Yes       |                                   |
+|3. InceptionV3   |     315       |      Yes       |                                   |
+|4. ResNet152V2	 |	 568       |      Yes	    |	 1167 seconds  OR  19 min 27 sec  |
+|5. EfficientNetB7 |     817       |      Yes       |    	                            |
 
 
 Target Epochs for each DNN: 100 Epoch
